@@ -10,6 +10,7 @@ namespace Employees
     {
         static void Main(string[] args)
         {
+            //коментар
             Manager chucky = new Manager("Chucky", 50, 92, 100000, "333 - 32 - 3332", 9000);
             chucky.GiveBonus(300);
             chucky.DisplayStats();

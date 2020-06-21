@@ -12,6 +12,7 @@ namespace Employees
         {
             //коментар
             //коментар2
+            //Practice makes perfect
             Manager chucky = new Manager("Chucky", 50, 92, 100000, "333 - 32 - 3332", 9000);
             chucky.GiveBonus(300);
             chucky.DisplayStats();
